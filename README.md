@@ -8,7 +8,7 @@
 # Installation:
 - clone the repository to your config directory (~/.config/nvim)
 ```cd ~
-mkdir .config && cd .config
+mkdir ~/.config && cd ~/.config
 git clone https://github.com/Auresol/nvim-config.git
 mv nvim-config nvim
 ```
