@@ -13,3 +13,6 @@ git clone https://github.com/Auresol/nvim-config.git
 mv nvim-config nvim
 ```
 - run ```PlugInstall``` in neovim
+
+# If coc give error "build/index.js not found"
+- run ```:call coc#util#install()``` to install all required dependency
