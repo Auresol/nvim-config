@@ -14,5 +14,8 @@ mv nvim-config nvim
 ```
 - run ```PlugInstall``` in neovim
 
-# If coc give error "build/index.js not found"
+## If coc give error "build/index.js not found"
 - run ```:call coc#util#install()``` to install all required dependency
+
+## If :MarkdownPreview doesn't show anything
+- run ```:call mkdp#util#install()``` to install all required dependency
